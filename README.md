@@ -120,9 +120,9 @@ tree /profile/missions/
   Stats fetched from active database zeroXmoRamadan.
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeroXmoRamadan&show_icons=true&theme=dark&title_color=da1b22&icon_color=39ff14&text_color=a9a9b3&bg_color=050505&hide_border=true&count_private=true" alt="System Stats" />
+<img src="https://github-readme-stats-eight.vercel.app/api?username=zeroXmoRamadan&show_icons=true&theme=dark&title_color=da1b22&icon_color=39ff14&text_color=a9a9b3&bg_color=050505&hide_border=true&count_private=true" alt="System Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroXmoRamadan&layout=compact&theme=dark&title_color=da1b22&icon_color=39ff14&text_color=a9a9b3&bg_color=050505&hide_border=true" alt="Top Operations" />
+<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=zeroXmoRamadan&layout=compact&theme=dark&title_color=da1b22&icon_color=39ff14&text_color=a9a9b3&bg_color=050505&hide_border=true" alt="Top Operations" />
 
 <br/>
 
