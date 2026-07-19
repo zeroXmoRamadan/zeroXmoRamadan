@@ -116,17 +116,11 @@ tree /profile/missions/
 
 <div align="center">
 
-<!-- 
-  Stats fetched from active database zeroXmoRamadan.
--->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeroXmoRamadan&theme=2077" alt="Profile Details" />
 
-<img src="https://github-readme-stats-eight.vercel.app/api?username=zeroXmoRamadan&show_icons=true&theme=dark&title_color=da1b22&icon_color=39ff14&text_color=a9a9b3&bg_color=050505&hide_border=true&count_private=true" alt="System Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeroXmoRamadan&theme=2077" alt="Stats" />
 
-<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=zeroXmoRamadan&layout=compact&theme=dark&title_color=da1b22&icon_color=39ff14&text_color=a9a9b3&bg_color=050505&hide_border=true" alt="Top Operations" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeroXmoRamadan&theme=dark&background=050505&fire=da1b22&ring=da1b22&currStreakLabel=da1b22&currStreakNum=00ff00&sideNums=a9a9b3&sideLabels=a9a9b3" alt="Activity Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeroXmoRamadan&theme=2077" alt="Languages" />
 
 </div>
 
