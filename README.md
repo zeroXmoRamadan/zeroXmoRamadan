@@ -38,7 +38,7 @@ Last login: Sun Jul 19 02:43:12 2026 from 127.0.0.1
 │  ALIAS: @zeroXmoRamadan                                │
 │  ROLE: SOC Analyst Tier 1                              │
 │  LOCATION: Cairo, Egypt                                │
-│  DECRYPTION STATUS: [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░] 89.2%     │
+│  DECRYPTION STATUS: [▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▭▭▭] 89.2%     │
 └────────────────────────────────────────────────────────┘
 ```
 
