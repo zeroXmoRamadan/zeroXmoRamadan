@@ -33,12 +33,12 @@ Last login: Sun Jul 19 02:43:12 2026 from 127.0.0.1
 
 ```text
 ┌────────────────────────────────────────────────────────┐
-│  SYSTEM STATUS: ONLINE                                 │
-│  OPERATOR: Mohamed Ramadan                             │
-│  ALIAS: @zeroXmoRamadan                                │
-│  ROLE: SOC Analyst Tier 1                              │
-│  LOCATION: Cairo, Egypt                                │
-│  DECRYPTION STATUS: [▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▭▭▭] 89.2%     │
+   SYSTEM STATUS: ONLINE                                 
+   OPERATOR: Mohamed Ramadan                             
+   ALIAS: @zeroXmoRamadan                                
+   ROLE: SOC Analyst Tier 1                              
+   LOCATION: Cairo, Egypt                                
+   DECRYPTION STATUS: [▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▭▭▭] 89.2%   
 └────────────────────────────────────────────────────────┘
 ```
 
