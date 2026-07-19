@@ -61,13 +61,11 @@ drwxr-xr-x  4 zeroXmoRamadan  staff   128B missions/  (Projects)
 cat /profile/bio.sh
 ```
 
-> *"I do know that at some point, I made a decision. I chose to do something. I chose to act. I didn't want to just sit around and watch the world fall apart."*
->
 > I am a fresh graduate from the Faculty of Computers and Information, Luxor University (2022 – 2026), specializing in cybersecurity and Blue Team SOC operations. I analyze security telemetry, perform alert triage, and conduct digital forensics and incident response (DFIR) investigations on memory and disk artifacts.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### defenses/ & monitoring/
+### defenses/ (skills)
 
 ```bash
 tree /profile/defenses/
@@ -94,7 +92,7 @@ tree /profile/defenses/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### missions / projects
+### missions/ (projects)
 
 ```bash
 tree /profile/missions/
