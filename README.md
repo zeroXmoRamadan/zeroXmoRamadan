@@ -110,20 +110,6 @@ tree /profile/missions/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### system metrics & data packets
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeroXmoRamadan&theme=2077" alt="Profile Details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeroXmoRamadan&theme=2077" alt="Stats" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeroXmoRamadan&theme=2077" alt="Languages" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ### operation logs
 
 #### [RESTRICTED ACCESS] Decrypt zeroXmoRamadan Operation Log
@@ -146,6 +132,20 @@ cat /profile/missions/log.txt
 - [x] CyCTF 2025 Qualifiers: Ranked #15 (Team)
 - [x] Competed in various regional & online CTF competitions
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### system metrics & data packets
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeroXmoRamadan&theme=2077" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeroXmoRamadan&theme=2077" alt="Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeroXmoRamadan&theme=2077" alt="Languages" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
